@@ -83,7 +83,7 @@ python p_assembly_module/train_assembly_local.py # Sketch assembly model
 python p_assembly_module/viusualize_all_parts_local.py
 ```
 
-> Note: After training above two models, and putting their well-trained models into right place, you then can directly run the [full pipeline](#Fast Testing).
+> Note: After training the above two models and putting their well-trained models in the right place, you can directly run the full pipeline (Fast Testing).
 
 ## Acknowledgments
 
