@@ -83,8 +83,6 @@ python p_assembly_module/train_assembly_local.py # Sketch assembly model
 python p_assembly_module/viusualize_all_parts_local.py
 ```
 
-> Note: After training the above two models and putting their well-trained models in the right place, you can directly run the full pipeline (Fast Testing).
-
 ## Acknowledgments
 
 This code is developed based on [IM-Net](https://github.com/czq142857/IM-NET) and [CompoNet](https://github.com/nschor/CompoNet).
